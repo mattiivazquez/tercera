@@ -8,7 +8,6 @@ body{
     min-height: 100vh;
     width: 100vw;
     background-color: whitesmoke;
-    overflow: hidden;
 }
 
 .navbar_item{
