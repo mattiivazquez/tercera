@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /* Estilos generales */
 body {
   font-family: Arial, sans-serif;
@@ -97,13 +96,16 @@ footer {
     background-color: #333;
     text-align: center;
   }
+
   .navbar-nav .nav-item {
     margin: 5px 0;
   }
+
   .navbar-toggler {
     order: -1;
   }
+
   .navbar-toggler-icon {
     background-color: #fff;
   }
-}/*# sourceMappingURL=estilos.css.map */
+}
